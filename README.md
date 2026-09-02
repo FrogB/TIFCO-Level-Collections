@@ -11,7 +11,7 @@ To download the collections, simply:
 3. Import into IIE.
 
 This repository AND this README will be updated over time should any new levels, fixes, or changes to some of the information available in this repository come.
-If you have any questions, join the (Discord)[https://discord.gg/uyuCb4xSQp]
+If you have any questions, join the [Discord](https://discord.gg/uyuCb4xSQp)
 
 Have fun!
 - FrogB
