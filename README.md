@@ -14,4 +14,4 @@ This repository AND this README will be updated over time should any new levels,
 If you have any questions, join the (Discord)[https://discord.gg/uyuCb4xSQp]
 
 Have fun!
-- FrogB No newline at end of file
+- FrogB
